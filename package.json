@@ -2,8 +2,10 @@
   "name": "climate-call-up-typescript-interfaces",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/climatecallup/typescript-interfaces/issues"
   },
-  "homepage": "https://github.com/climatecallup/typescript-interfaces#readme"
+  "homepage": "https://github.com/climatecallup/typescript-interfaces#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
 }
