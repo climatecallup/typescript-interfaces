@@ -1,0 +1,19 @@
+{
+  "name": "climate-call-up-typescript-interfaces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/climatecallup/typescript-interfaces.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/climatecallup/typescript-interfaces/issues"
+  },
+  "homepage": "https://github.com/climatecallup/typescript-interfaces#readme"
+}
